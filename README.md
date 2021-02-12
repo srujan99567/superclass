@@ -1,4 +1,5 @@
 # superclass
+
 class A
 {
 	int a;
